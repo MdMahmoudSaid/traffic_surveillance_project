@@ -1,6 +1,6 @@
 # 🚗 Traffic Surveillance Project
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/VOTRE_NOM_D_UTILISATEUR/NOM_DU_SPACE)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hamoud-7/traffic_surveillance)
 
 Une application d'analyse et de surveillance du trafic basée sur l'intelligence artificielle. Ce projet utilise la vision par ordinateur pour détecter et suivre les véhicules sur la route.
 
